@@ -18,7 +18,7 @@ Styling and page layout.
 
 ## Applied in
 
-- [Contact Form](https://github.com/eumarllonlran/formulario-contato-faculdade)
+- [Contact Form](https://github.com/eumarllonlran/college-contact-form)
 - [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos)
 
 ## Files
