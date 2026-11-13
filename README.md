@@ -31,7 +31,6 @@ The [`study-log.md`](./study-log.md) file logs what I studied each day, to show 
 | :-- | :-- |
 | [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | HTML, CSS, JavaScript, Bootstrap and API consumption (ViaCEP), as a team |
 | [Contact Form](https://github.com/eumarllonlran/formulario-contato-faculdade) | Semantic HTML, accessibility, responsive CSS and DOM manipulation |
-| [C Exercises](https://github.com/eumarllonlran/exercicios-c) | Programming logic: loops, conditionals and accumulators |
 
 ## 📌 How I study
 
