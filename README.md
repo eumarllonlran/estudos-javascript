@@ -4,8 +4,6 @@ A repository where I track my progress learning web development, with a focus on
 
 > Goal: move from the fundamentals to backend development with Node.js, REST APIs and databases.
 
-> My personal notes and study log are written in Portuguese, my native language.
-
 ## 🧭 Learning path
 
 | Stage | Folder | Status |
@@ -13,19 +11,19 @@ A repository where I track my progress learning web development, with a focus on
 | HTML | [01-html](./01-html) | ✅ Basics completed |
 | CSS | [02-css](./02-css) | ✅ Basics completed |
 | JavaScript | [03-javascript](./03-javascript) | 🟢 In progress |
-| Git & GitHub | [04-git-e-github](./04-git-e-github) | 🟢 In progress |
+| Git & GitHub | [04-git-and-github](./04-git-and-github) | 🟢 In progress |
 | Node.js | [05-nodejs](./05-nodejs) | 🔜 Up next |
-| Databases | [06-banco-de-dados](./06-banco-de-dados) | 🟢 In progress (college) |
+| Databases | [06-databases](./06-databases) | 🟢 In progress (college) |
 
 ## 🗂️ How this repository is organized
 
 Each folder contains:
 
 - a `README.md` listing the stage's topics (✅ studied · ⬜ to study)
-- an `exercicios/` folder with the code I practice
-- an `anotacoes.md` file with summaries of what I learned, in my own words
+- an `exercises/` folder with the code I practice
+- a `notes.md` file with summaries of what I learned, in my own words
 
-The [`diario.md`](./diario.md) file logs what I studied each day, to show consistency.
+The [`study-log.md`](./study-log.md) file logs what I studied each day, to show consistency.
 
 ## 🚀 Projects built with what I learned
 
@@ -38,9 +36,9 @@ The [`diario.md`](./diario.md) file logs what I studied each day, to show consis
 ## 📌 How I study
 
 1. Study the topic (course, documentation or college class)
-2. Write a summary in `anotacoes.md`
-3. Practice with an exercise in `exercicios/`
-4. Mark the topic as ✅ and log it in `diario.md`
+2. Write a summary in `notes.md`
+3. Practice with an exercise in `exercises/`
+4. Mark the topic as ✅ and log it in `study-log.md`
 5. Commit — a little bit every day
 
 ## 🔗 Contact

@@ -1,27 +1,27 @@
 # 02 · CSS
 
-Estilo e layout das páginas.
+Styling and page layout.
 
-## Tópicos
+## Topics
 
-- ✅ Seletores, cores, fontes e espaçamento
+- ✅ Selectors, colors, fonts and spacing
 - ✅ Box model (`margin`, `border`, `padding`)
 - ✅ Flexbox
 - ✅ Grid
-- ✅ Layout responsivo com `@media`
-- ✅ Variáveis CSS (custom properties)
+- ✅ Responsive layout with `@media`
+- ✅ CSS custom properties (variables)
 - ✅ Pseudo-classes (`:hover`, `:focus-visible`, `:checked`)
-- ✅ Modo escuro com `prefers-color-scheme`
-- ✅ Bootstrap (no projeto em equipe)
-- ⬜ Animações e transições
-- ⬜ Posicionamento (`position`, `z-index`) em mais detalhes
+- ✅ Dark mode with `prefers-color-scheme`
+- ✅ Bootstrap (used in the team project)
+- ⬜ Animations and transitions
+- ⬜ Positioning (`position`, `z-index`) in depth
 
-## Onde pratiquei
+## Applied in
 
-- [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade)
+- [Contact Form](https://github.com/eumarllonlran/formulario-contato-faculdade)
 - [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos)
 
-## Arquivos
+## Files
 
-- [`anotacoes.md`](./anotacoes.md) — meus resumos
-- [`exercicios/`](./exercicios) — códigos de prática
+- [`notes.md`](./notes.md) — study notes
+- [`exercises/`](./exercises) — practice code

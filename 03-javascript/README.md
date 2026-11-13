@@ -1,34 +1,34 @@
 # 03 · JavaScript
 
-A linguagem principal da minha trilha — no navegador agora e no backend (Node.js) depois.
+The core language of my learning path — in the browser now, and on the backend (Node.js) next.
 
-## Fundamentos
+## Fundamentals
 
-- ✅ Variáveis (`let`, `const`) e tipos de dados
-- ✅ Operadores e condicionais (`if`, `else`)
-- ✅ Funções (declaração e arrow functions)
-- ⬜ Laços (`for`, `while`, `for...of`) em JavaScript
-- ⬜ Arrays e seus métodos (`map`, `filter`, `find`, `reduce`)
-- ⬜ Objetos e desestruturação
-- ⬜ Template strings e spread/rest
-- ⬜ Tratamento de erros (`try/catch`)
+- ✅ Variables (`let`, `const`) and data types
+- ✅ Operators and conditionals (`if`, `else`)
+- ✅ Functions (declarations and arrow functions)
+- ⬜ Loops (`for`, `while`, `for...of`)
+- ⬜ Arrays and array methods (`map`, `filter`, `find`, `reduce`)
+- ⬜ Objects and destructuring
+- ⬜ Template literals and spread/rest
+- ⬜ Error handling (`try/catch`)
 
-## JavaScript no navegador
+## JavaScript in the browser
 
-- ✅ Selecionar elementos do DOM (`getElementById`, `querySelector`)
-- ✅ Eventos (`addEventListener`)
-- ✅ Expressões regulares simples (máscara de telefone)
+- ✅ DOM element selection (`getElementById`, `querySelector`)
+- ✅ Events (`addEventListener`)
+- ✅ Basic regular expressions (phone input mask)
 - ✅ `sessionStorage`
-- ⬜ `localStorage` e JSON
-- ⬜ Criar e remover elementos dinamicamente
+- ⬜ `localStorage` and JSON
+- ⬜ Creating and removing elements dynamically
 
-## Assíncrono
+## Asynchronous JavaScript
 
 - ⬜ Promises
 - ⬜ `async` / `await`
-- ⬜ `fetch` para consumir APIs
+- ⬜ `fetch` for consuming APIs
 
-## Arquivos
+## Files
 
-- [`anotacoes.md`](./anotacoes.md) — meus resumos
-- [`exercicios/`](./exercicios) — códigos de prática
+- [`notes.md`](./notes.md) — study notes
+- [`exercises/`](./exercises) — practice code
